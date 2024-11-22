@@ -22,3 +22,6 @@ The data set includes information about:
 2. Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
 3. Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 4. Demographic info about customers – gender, age range, and if they have partners and dependents
+
+
+## Machine Learning with PySpark: Customer Churn Analysis
