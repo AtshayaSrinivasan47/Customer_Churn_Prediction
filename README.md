@@ -24,4 +24,7 @@ The data set includes information about:
 4. Demographic info about customers – gender, age range, and if they have partners and dependents
 
 
-## Machine Learning with PySpark: Customer Churn Analysis
+## Tableau Dashboard 
+
+https://public.tableau.com/app/profile/atshaya.srinivasan/viz/CustomerChurnDatasetReport/Dashboard1
+
