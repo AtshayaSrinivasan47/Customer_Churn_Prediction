@@ -1,9 +1,10 @@
 # Customer_Churn_Prediction
 Predict customer churn for a subscription-based business.
 
+
 ## Problem Statement:
 
-Given historical customer data, predict whether a customer will churn in the next billing cycle
+Given historical customer data, predict whether a customer will churn in the next billing cycle. Also, this project goal is to understand the variable that influencing the customers to migrate. Creating customer risk score that can be indicative to drive retention campaigns. Introducing new predicting variable "Churn_Flag" with values YES(1) or NO(0) so that email campaigns with lucrative offers can be targets to churn YES customers.
 
 ## Key Metrics:
 
