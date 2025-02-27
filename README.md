@@ -25,6 +25,18 @@ The data set includes information about:
 4. Demographic info about customers – gender, age range, and if they have partners and dependents
 
 
+Analysed following questions:
+
+1. What is the overall churn rate?
+2. How does churn vary by contract type (Monthly, One-year, Two-year)?
+3. Are there specific demographic segments (age, tenure, location) with higher churn rates?
+4.  Do customers who contact customer support frequently churn more?
+5.  How do usage patterns (e.g., internet service type, streaming services) affect churn?
+6.  Are customers with higher monthly charges more likely to churn?
+7.  What types of customers should we target with retention offers?
+8.  How much revenue is lost due to churn, and how can we reduce it?
+9.  What proactive measures (pricing, customer service, contract incentives) can help reduce churn?
+
 ## Tableau Dashboard 
 
 https://public.tableau.com/app/profile/atshaya.srinivasan/viz/CustomerChurnDatasetReport/Dashboard1
